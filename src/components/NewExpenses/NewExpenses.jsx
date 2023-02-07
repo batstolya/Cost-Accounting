@@ -10,7 +10,6 @@ const NewExpenses = (props) => {
       ...enteredExpenseData,
       id: Math.random().toString(),
     };
-    // console.log(ExpenseData);
     props.OnAddExpense(ExpenseData);
     setIsEditing(false);
   };
