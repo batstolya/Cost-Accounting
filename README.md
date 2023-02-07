@@ -1,4 +1,4 @@
-##Cost-Accounting
+# Cost-Accounting
 
 - [DEMO LINK](http://batstolya.github.io/Cost-Accounting)
 # 
